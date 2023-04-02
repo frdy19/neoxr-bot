@@ -1,8 +1,8 @@
 const { Function: Func } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '6285887776722'
+global.owner = '62823504965328'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = '𝙁𝙚𝙧𝙙𝙮 𝙁𝙧𝙢𝙣𝙨𝙮𝙝'
 // Database name (Default: database)
 global.database = 'bot'
 // Maximum upload file size limit (Default : 100 MB)
