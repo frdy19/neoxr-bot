@@ -1,6 +1,6 @@
 module.exports = class NeoxrApi {
    baseUrl = 'https://api.neoxr.my.id/api'
-   apiKey = null
+   apiKey = Lwgcv1
 
    constructor(apiKey) {
       this.apiKey = apiKey || '2Lwgcv1'
